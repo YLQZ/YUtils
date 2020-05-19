@@ -1,5 +1,5 @@
 {
-  "name": "YUtils",
+  "name": "yutils",
   "version": "1.0.0",
   "description": "余生 TS编写的 npm  工具包",
   "main": "index.js",
