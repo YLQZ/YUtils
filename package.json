@@ -1,0 +1,28 @@
+{
+  "name": "YUtils",
+  "version": "1.0.0",
+  "description": "余生 TS编写的 npm  工具包",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YLQZ/YUtils.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "余生",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YLQZ/YUtils/issues"
+  },
+  "homepage": "https://github.com/YLQZ/YUtils#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2",
+    "typescript": "^3.9.2"
+  }
+}
