@@ -22,7 +22,7 @@
   "homepage": "https://github.com/YLQZ/YUtils#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^7.1.2",
+    "mocha": "^10.1.0",
     "typescript": "^3.9.2"
   }
 }
